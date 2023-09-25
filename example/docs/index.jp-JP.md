@@ -1,6 +1,6 @@
 ---
 hero:
-  title: Multiway111 - <b>Help Document</b>
+  title: Multiway - <b>Help Document</b>
 ---
 
 <embed src="../../README.md"></embed>

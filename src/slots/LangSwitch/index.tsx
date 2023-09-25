@@ -50,6 +50,8 @@ const languageMap: Record<string, string> = {
 const displayLangMap: Record<string, string> = {
   'zh-CN': '中',
   'en-US': 'EN',
+  'jp-JP': '日',
+  'ko-KR': '한국어',
 };
 
 const SingleSwitch: FC<{ locale: ILocaleItem; current: ILocaleItem }> = ({ locale, current }) => {

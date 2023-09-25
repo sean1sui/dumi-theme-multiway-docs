@@ -63,6 +63,9 @@ export default defineConfig({
   locales: [
     { id: 'zh-CN', name: '中文', suffix: '' },
     { id: 'en-US', name: 'English', suffix: '-en' },
+    { id: 'jp-JP', name: '日本語', suffix: '-jp' },
+    { id: 'ko-KR', name: '한국어', suffix: '-ko' },
+    
   ],
   alias: {
     'dumi-theme-antd-style': path.join(__dirname, '../src'),
